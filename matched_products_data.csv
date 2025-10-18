@@ -1,9 +1,11 @@
-product_name,category,units_sold,unit_price,total_revenue,total_expense,net_profit
-Wireless Earbuds,Electronics,13,18,234,58.08,175.92000000000002
-Smart Watch,Electronics,7,25,175,35.52,139.48
-Graphic T-Shirt,Clothing,5,12,60,14.98,45.019999999999996
-Lip Gloss Set,Beauty,8,10,80,19.2,60.8
-Fitness Bottle,Accessories,14,15,210,35.46,174.54
-Phone Case,Accessories,12,8,96,17.75,78.25
-Handmade Bracelet,Jewelry,6,7,42,9.9,32.1
-Bluetooth Speaker,Electronics,9,22,198,45.14,152.86
+product_id,product_name,category,price_usd,units_sold
+P001,Wireless Mouse,Accessories,33.51,76
+P002,Phone Case,Accessories,29.11,28
+P003,USB Cable,Cables,9.06,29
+P004,Bluetooth Speaker,Audio,42.59,80
+P005,LED Lamp,Lighting,19.44,61
+P006,Smartwatch Strap,Wearables,13.39,42
+P007,Keyboard,Accessories,6.83,49
+P008,Headphones,Audio,31.59,48
+P009,Charger,Power,35.49,91
+P010,Desk Mat,Office,5.75,10
